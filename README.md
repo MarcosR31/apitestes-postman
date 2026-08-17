@@ -110,7 +110,7 @@ Publicação do projeto no GitHub com estrutura organizada e README profissional
 Desenvolvido durante formação prática em testes de API REST.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-rodrigo-a4564830a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosR31)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcosR31/apitestes-postman)
 
 ---
 
